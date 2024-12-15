@@ -1,9 +1,6 @@
 # cohort_2.0
 
-<<<<<<< HEAD
-
-- # Start week 2 \*
-  ~ continue in week1.5 async_await_promices.js from 28.00 min ~
+# Start week 2
 
 # Roadmap of Backend Engineering
 
