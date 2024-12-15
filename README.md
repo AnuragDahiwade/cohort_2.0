@@ -1,6 +1,6 @@
 # cohort_2.0
 
-# Start week 2
+\*\* Start week 2
 
 # Roadmap of Backend Engineering
 
@@ -65,4 +65,3 @@
 30. Webhooks [what, use cases, server initiated, sig varification, logging, test, etc]
 
 31. DevOps for backend engineers [CI/CD, infra is code, tooks, containers, ci/cd pipelines, deployment strategies]
-    > > > > > > > refs/remotes/origin/main
