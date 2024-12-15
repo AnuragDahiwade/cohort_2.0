@@ -9,3 +9,9 @@
 - Js can talk to the native machine because of C++
 - We can create webservers in Js
 - What is Node js -> Node js is a runtime environment for Js.
+
+### Hello World
+
+```js
+console.log("Hello World");
+```
