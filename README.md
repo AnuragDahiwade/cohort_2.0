@@ -1,16 +1,12 @@
 # cohort_2.0
 
 <<<<<<< HEAD
-- Start week 2 \*
-=======
-~ continue in week1.5 async_await_promices.js from 28.00 min ~
 
-
-
-
-
+- # Start week 2 \*
+  ~ continue in week1.5 async_await_promices.js from 28.00 min ~
 
 # Roadmap of Backend Engineering
+
 1. High Level understanding of the Backend Engineering
 
 2. HTTP protocols [communication, headers, http methods-get, put, post, cors flow, http responses, commonly use http codes, catching, catching techniques, content negotiation, compression, persistent connection, security aspects of http]
@@ -72,4 +68,4 @@
 30. Webhooks [what, use cases, server initiated, sig varification, logging, test, etc]
 
 31. DevOps for backend engineers [CI/CD, infra is code, tooks, containers, ci/cd pipelines, deployment strategies]
->>>>>>> refs/remotes/origin/main
+    > > > > > > > refs/remotes/origin/main
